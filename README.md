@@ -1,4 +1,3 @@
-# Improving_DNN
 #### Improving Deep Neural Networks
 
 <a name='1'></a> 
