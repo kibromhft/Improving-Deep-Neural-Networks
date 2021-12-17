@@ -1,4 +1,4 @@
-#### Improving Deep Neural Networks
+### Improving Deep Neural Networks
 
 <a name='1'></a> 
  ### 1 - Initialization
