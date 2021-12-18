@@ -1,7 +1,12 @@
-### Improving Deep Neural Networks : Part 1
+### Improving Deep Neural Networks 
 
-<a name='1'></a> 
- ### 1 - Initialization
- ### 2 - Regularization
- ### 3 - Gradient checking
-
+## Part 1:
+ - Initialization.ipynb
+ - Regularization.ipynb
+ - Gradient Checking v1.ipynb
+ 
+ ## Part 2:
+  - Optimization methods.ipynb
+ 
+ ## Part 3:
+  - Tensorflow Tutorial.ipynb
