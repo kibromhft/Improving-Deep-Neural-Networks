@@ -9,7 +9,7 @@
   - Understand experimental issues such as Vanishing or Exploding gradients in DL and how to deal with them
   - Use gradient checking to verify the correctness of your backpropagation implementation
   - Recall various optimization methods such as Momentum, RMSProp,(Stochastic) Gradient Descent, and Adam
-  - Use random minibatches to accelerate the convergence and improve the optimization
+  - Use random minibatches to accelerate the convergence and improve optimization
   - Use gradient checking to verify the correctness of backpropagation implementation
 ### Part 1:
  - Initialization.ipynb
