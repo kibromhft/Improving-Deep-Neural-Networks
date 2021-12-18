@@ -3,7 +3,6 @@
 - Hyperparameter Tuning, Regularization and Optimization
 ### Specific Objectives
   - Recall that different types of initializations lead to different results
-  - Recognize the importance of initialization in complex neural networks.
   - Setting up Machine Learning Application: train/dev/test sets
   - Diagnose the bias and variance issues in DL models : bias-variance trade-off
   - Regularization methods such as dropout or L2 regularization.
