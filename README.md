@@ -6,9 +6,8 @@
   - Setting up Machine Learning Application: train/dev/test sets
   - Diagnose the bias and variance issues in DL models : bias-variance trade-off
   - Regularization methods such as dropout or L2 regularization.
-  - Understand experimental issues such as Vanishing or Exploding gradients in DL and how to deal with them
-  - Use gradient checking to verify the correctness of your backpropagation implementation
-  - Recall various optimization methods such as Momentum, RMSProp,(Stochastic) Gradient Descent, and Adam
+  - Deal with experimental issues such as Vanishing gradients in DL models
+  - Recall various optimization methods such as Momentum, RMSProp,(Stochastic) Gradient Descent (SGD), and Adam
   - Use random minibatches to accelerate the convergence and improve optimization
   - Use gradient checking to verify the correctness of backpropagation implementation
 ### Part 1:
