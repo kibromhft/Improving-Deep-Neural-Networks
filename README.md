@@ -1,5 +1,6 @@
 ### Improving Deep Neural Networks 
-### Objectives: ### Hyperparameter Tuning, Regularization and Optimization
+### Objectives: 
+- Hyperparameter Tuning, Regularization and Optimization
 ### Specific Objectives
   - Recall that different types of initializations lead to different results
   - Recognize the importance of initialization in complex neural networks.
